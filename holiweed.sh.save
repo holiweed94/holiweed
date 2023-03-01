@@ -220,7 +220,7 @@ timeout_secs_per_pixiedust="30"
 
 #Repository and contact vars
 repository_hostname="github.com"
-github_user="Oscar_Cardenas1sh3r3"
+github_user="holiweed94"
 github_repository="holiweed"
 branch="master"
 script_filename="holiweed.sh"
@@ -231,7 +231,7 @@ urlscript_pins_dbfile_checksum="https://raw.githubusercontent.com/${github_user}
 urlscript_language_strings_file="https://raw.githubusercontent.com/${github_user}/${github_repository}/${branch}/${language_strings_file}"
 urlscript_options_config_file="https://raw.githubusercontent.com/${github_user}/${github_repository}/${branch}/${rc_file_name}"
 urlgithub_wiki="https://${repository_hostname}/${github_user}/${github_repository}/wiki"
-mail="Oscar_Cardenas.1s.h3r3@gmail.com"
+mail="jdmreylagarto@gmail.com"
 author="Oscar_Cardenas"
 
 #Dhcpd, Hostapd and misc Evil Twin vars
